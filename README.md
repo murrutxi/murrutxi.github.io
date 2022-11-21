@@ -16,14 +16,15 @@ A esta actividad hay que publicar las tres técnicas y un video explicativo que 
 
 [Punto 7: 5%] Cada una de las tres presentaciones deben tener una duración de unos 2-3 minutos. En total, el vídeo (único) con las tres técnicas no puede exceder de 7 minutos. Se penalizará salir de ese rango, porque se valora la capacidad de síntesis y de comunicación.
 
+El siguiente enlace nos lleva a la página web donde se encuentran los datos.
 
+https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities
 
 - Las tres técnicas que se han utilizado para realizar la PEC2:
 
 1. Bar chart
 
 ![Alt text](https://github.com/murrutxi/murrutxi.github.io/blob/main/Chart/barchart.PNG "Optional Title")
-
 
 2. Slope chart
 
