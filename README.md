@@ -1,14 +1,6 @@
-# murrutxi.github.io
+# A5: Estudio de técnicas de visualización de datos (PEC2)
 
 A esta actividad hay que publicar las tres técnicas y un video explicativo que sigue el guión siguiente:
-
-- Las tres técnicas que tienes que utilizar para realizar la PEC2:
-
-1. Bar chart
-2. Slope chart
-3. Ridgeline Charts
-
-
 
 [Puntos 1 y 2] Presentaros siguiendo el esquema de la PEC 1.
 
@@ -23,3 +15,18 @@ A esta actividad hay que publicar las tres técnicas y un video explicativo que 
 [Punto 6: 30%] Comentar brevemente las tres representaciones indicando qué se representa y qué o qué aspectos muestra o demuestra cada representación. 
 
 [Punto 7: 5%] Cada una de las tres presentaciones deben tener una duración de unos 2-3 minutos. En total, el vídeo (único) con las tres técnicas no puede exceder de 7 minutos. Se penalizará salir de ese rango, porque se valora la capacidad de síntesis y de comunicación.
+
+
+
+- Las tres técnicas que tienes que utilizar para realizar la PEC2:
+
+1. Bar chart
+
+
+
+
+2. Slope chart
+
+
+
+3. Ridgeline Charts
