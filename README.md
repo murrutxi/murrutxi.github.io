@@ -22,11 +22,13 @@ A esta actividad hay que publicar las tres técnicas y un video explicativo que 
 
 1. Bar chart
 
-
+![Alt text](https://github.com/murrutxi/murrutxi.github.io/blob/main/Chart/barchart.PNG "Optional Title")
 
 
 2. Slope chart
 
-
+![Alt text](https://github.com/murrutxi/murrutxi.github.io/blob/main/Chart/slopechart.PNG "Optional Title")
 
 3. Ridgeline Charts
+
+![Alt text](https://github.com/murrutxi/murrutxi.github.io/blob/main/Chart/ridgelinechart.PNG "Optional Title")
