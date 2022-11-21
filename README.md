@@ -2,6 +2,14 @@
 
 A esta actividad hay que publicar las tres técnicas y un video explicativo que sigue el guión siguiente:
 
+- Las tres técnicas que tienes que utilizar para realizar la PEC2:
+
+1. Bar chart
+2. Slope chart
+3. Ridgeline Charts
+
+
+
 [Puntos 1 y 2] Presentaros siguiendo el esquema de la PEC 1.
 
 [Puntos 1 y 2: 5%] Indicad donde está colgada la visualización y cómo  acceder.
