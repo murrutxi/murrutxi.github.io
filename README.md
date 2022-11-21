@@ -18,7 +18,7 @@ A esta actividad hay que publicar las tres técnicas y un video explicativo que 
 
 
 
-- Las tres técnicas que tienes que utilizar para realizar la PEC2:
+- Las tres técnicas que se han utilizado para realizar la PEC2:
 
 1. Bar chart
 
